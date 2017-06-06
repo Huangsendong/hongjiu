@@ -1,0 +1,221 @@
+.my_account{
+    width:1010px;
+    margin:0 auto;
+    margin-top:20px;
+}
+.my_account1{
+    margin-top:20px;
+}
+.my_account_list{
+    width:155px;
+    height:813px;
+    border:1px solid #DDDDDD;
+    background-color: #F5F5F5;
+    float: left;
+}
+.jiaohufu{
+    margin-top:30px;
+    margin-left:20px;
+}
+.jiaohufu h3{
+    font-size: 14px;
+}
+.jiaohufu div{
+    margin-left:10px;
+    margin-top:20px;
+}
+.jiaohufu div a{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 13px;
+}
+.my_message{
+    width:830px;
+    height:786px;
+    float: left;
+    margin-left: 20px;
+}
+.xinxiqingkuang{
+    height:117px;
+}
+.touxiang{
+    position: relative;
+    float: left;
+}
+.touxiang a{
+    display: block;
+    position: absolute;
+    left:0;
+    bottom: 0;
+    width:110px;
+    height:30px;
+    background-color: rgba(0,0,0,.2);
+    text-align: center;
+    line-height: 30px;
+    color:#FFF;
+}
+.zhanghuxinxi{
+    float: left;
+    margin-left: 30px;
+}
+.zhanghuxinxi p{
+    color:#666;
+    margin-bottom: 10px;
+}
+.huanying{
+    color:#999;
+}
+.jine{
+    font-size: 28px;
+    color:#000;
+}
+.chongzhi{
+    width:63px;
+    height:30px;
+    margin-left: 20px;
+    background-color: #F3F3F3;
+    border:1px solid #F3F3F3;
+    border-radius: 5px;
+    color:#999;
+}
+.huiyuan{
+    height:10px;
+    width:141px;
+    margin:0 5px;
+}
+.rhhqjifen{
+    margin-left: 5px;
+    color:#6699CC;
+}
+.shuxian{
+    color:#E3DDE3;
+    margin:0 3px;
+}
+.dianzixinxi{
+     margin-left: 20px;
+     position: relative;
+}
+.dengji a span{
+    display: block;
+    width:14px;
+    height:15px;
+    position: absolute;
+    left:-17px;
+    top:0;
+    background-image: url(../img/gerenzhongxin/member_icon.png);
+}
+.youxiang{
+    background-position: 0 -22px;
+}
+.jiaoyixinxi{
+    width:794px;
+    height:86px;
+    background-color: #FFFFE0;
+    margin-top: 15px;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+.jiaoyixinxi p{
+    margin-bottom: 10px;
+    color:#999;
+}
+.jiaoyixinxi p a{
+    color:#333;
+    margin-right: 130px;
+}
+.my_dingdan{
+    margin-top:30px;
+}
+.my_dingdan h3{
+    font-size: 20px;
+    font-weight: 500;
+}
+.food_dingdan{
+    width:819px;
+    margin-top: 10px;
+}
+.biaotou{
+    height:36px;
+    background-color: #F5F5F5;
+}
+.biaoshen{
+    background-color: #FFF8F2;   
+}
+.biaoshen{
+    text-align: center;
+    border-top:1px solid #DDDDDD;
+    border-bottom:1px solid #DDDDDD;
+}
+.shangpin {
+    width: 415px;
+    height: 115px;
+}
+.jiu_img {
+    width: 80px;
+    height: 80px;
+    float: left;
+    border: 1px solid #999;
+    margin-left: 20px;
+    text-align: center;
+}
+.jiu_jieshao {
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+    text-align: left;
+}
+.food_del a{
+    color:#6699CC;
+}
+.zjiee{
+    font-size: 14px;
+}
+.jinese{
+    color:red;
+    font-weight: 600;
+}
+.hanyunfei{
+    color:#999;
+    margin-top:10px;
+}
+.sheng{
+    width:60px;
+    height:24px;
+    background-color: #98C15F;
+    margin:0 auto; 
+    color:#FFF;
+    font-weight: 600;
+    line-height: 24px;
+}
+.dingdanzhangtai{
+    height:460px;
+    border-left:1px solid #DDDDDD;
+}
+.dingdanzhangtai p{
+    font-size: 14px;
+    font-weight: 600;
+}
+.dingdanzhangtai a{
+    color:#6699CC;
+    position: relative;
+    margin-right: 15px;
+}
+.dingdanzhangtai a span{
+    top:3px;
+    border-top: 8px solid #6699CC;
+}
+.caozuo{
+    height:460px;
+     border-left:1px solid #DDDDDD;
+}
+.caozuo p{
+    font-size: 14px;
+    color:#6699CC;
+}
+.caozuo a{
+    position: relative;
+}
+.caozuo a span{
+    top:3px;
+}
+

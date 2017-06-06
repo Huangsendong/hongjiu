@@ -1,0 +1,20 @@
+.form1{
+    margin-top:10px;
+}
+.TextBox1{
+    width:250px;
+    height:30px;
+    margin-top:20px;
+}
+.button2{
+    float: left;
+    background-color: #F86528;
+    font-weight: 600;
+}
+.miandl1{
+    width:140px;
+    margin-left:10px;
+    margin-top:25px;
+    float: left;
+    color:#358DEE;
+}

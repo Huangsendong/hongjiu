@@ -1,0 +1,273 @@
+.order_processing{
+    width:1005px; 
+    margin:20px auto;
+}
+.gwqk{
+    height:31px;
+    background-image: url(../img/shopping/crumbCart.png);
+    background-position: 2px -31px ;
+}
+.order_processing1{
+    margin-top:20px;
+    height:1220px;
+    border:1px solid #DDDDDD; 
+}
+.hezong{
+    width:977px;
+    margin:0 auto;
+    border-bottom:1px dashed #DDDDDD;
+}
+.hezong h2{
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 10px;
+    float: left;
+    margin-right:30px;
+}
+.gerenxinxi{
+    height:372px;
+    margin-top:30px;
+}
+.form{
+    margin-left:50px;
+    float: left;
+    padding-top: 10px;
+}
+.bt{
+    color:red;
+}
+.form p{
+    padding:12px 0;
+    color:#333333;
+}
+.form label{
+    display: inline-block;
+    width: 80px;
+    margin-right: 10px;
+    text-align: right;
+}
+.dizhikuang{
+    width:500px;
+    margin-left:95px;
+}
+.gudingdh{
+    width:70px;
+}
+.queding{
+    width:100px;
+    height:30px;
+    margin-left:95px;
+    background-color: red;
+    border:1px solid #700400;
+    border-radius:5px;
+    color:#FFF;
+    font-size: 14px;
+    font-weight: 600;
+    margin-right:15px;
+}
+.peisongfangshi{
+    height:116px;
+    margin-top:20px;
+}
+.lianxikefu{
+    font-size: 10px;
+    color: #999;
+}
+.songhuoshijian{
+    width:872px;
+    height:63px;
+    background-color: #F3F3F3;
+    margin-top:15px;
+    margin-left: 95px;
+
+}
+.songhuoshijian p{
+   margin-left: 30px;
+}
+.beizhu{
+    color:#999;
+    font-size: 10px;
+    line-height: 35px;
+}
+.zhufufangshi{
+    height:157px;
+    margin-top:30px;
+}
+.fukuan{
+    margin-left: 95px;
+    width:850px;
+    height:127px;
+    border:1px solid #999;
+}
+.fukuanlan{
+    height:36px;
+}
+.fukuanlan li{
+    padding: 8px 0;
+    width:212px;
+    height:17px;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    border-bottom:3px solid red;
+    background:#E9E9E9;
+    position: relative;
+    cursor:pointer;
+}
+.fukuanlan li span{
+    position: absolute;
+    right:2px;
+    top:8px;
+    display: block;
+    width:1px;
+    height:15px;
+    background:#FFF;
+    border-left:1px solid #CCCCCC; 
+}
+.yangshi{
+    background:red !important; 
+    color:#FFF;
+    font-weight: 600;
+}
+.fukuanneir li{
+    width:848px;
+    height:93px;
+}
+.fukuanneir li span{
+    display: block;
+    width:44px;
+    height:44px;
+    float: left;
+    background-image: url(../icons.png);
+    background-position: -799px -316px;
+
+    margin-left:192px;
+}
+.fukuanneir_neir{
+    margin:25px auto;
+}
+.fukuanneir_neir p{
+    margin-left: 250px;
+    margin-bottom:10px;
+}
+.p2{
+    color:#999;
+}
+
+.shangpinqingdan{
+    height:286px;
+    margin-top:20px;
+    border:0;
+}
+.biaodan{
+    width:846px;
+    height:220px;
+    border-bottom:1px solid #EBEBEB;
+}
+.biaotou{
+    height:33px;
+    background-color: #F3F3F3;
+    text-align: left;
+    color:#999;
+}
+.biaodan tr td{ 
+    height:33px;
+    text-align: right;
+    color:#999;
+    padding-right:25px;
+}
+.shangpin{
+    width:538px;
+}
+.shangpin p{
+    text-align: left;
+    margin-left:113px;
+}
+.shangpinheji{
+    float: right;
+}
+.shangpinheji p{
+    margin-top:20px;
+    margin-right:40px;
+}
+.zts{
+    color:red;
+}
+.spheji{
+    width:927px;
+    height:97px;
+    background-color: #F3F3F3;
+    margin:0 auto;
+    padding-top: 15px;
+    padding-left:15px;
+}
+.spheji_main span{
+    float: left;
+    font-size: 32px;
+    font-weight: 600;
+    color:#999;
+    margin:0 5px;
+}
+.gtd{
+    height:45px;
+    border:1px solid #999;
+    float: left;
+    font-size: 14px;
+    color:#333;
+    text-align: center;
+    padding-top: 10px;
+    position: relative;
+}
+.yhzk{
+    position: absolute;
+    top:56px;
+    right:-2px;
+    font-size: 10px;
+    color:#999;
+}
+.sphj{
+    width:95px;
+}
+.yue{
+    width:80px;
+}
+.yunsuifei{
+    width:148px;
+}
+.shifudingdan{
+    float: left;
+    width:185px;
+    height:70px;
+    border:2px solid #DF8B87;
+    text-align: center;
+    padding-top:10px;
+}
+.shifudingdan{
+    font-weight: 600;
+}
+.jineziti{
+    color:red;
+    font-size: 32px;
+}
+.dingdanchuli{
+    padding-top:10px;
+    width:927px;
+    margin:0 auto;
+}
+.tjdan{
+    width:210px;
+    height:39px;
+    border:0;
+    background-color: red;
+    color:#FFF;
+    font-size: 16px;
+    font-weight: 600;
+    float: right;
+}
+.dingdanchuli div{
+    float: left;
+}
+.dingdanchuli div p{
+    color:#999;
+    margin-bottom:10px;
+}

@@ -1,0 +1,94 @@
+.content{
+    height:3053px;
+    background-color:#E9E2D3; 
+}
+.zhongjizhuang{
+    width:1473px;
+    margin:0 auto;
+}
+.zhongjizhuang img{
+    width:1473px;
+    display:block;
+    padding: 0px;
+    margin:0px; 
+}
+.food_jiu{
+    width:1020px;
+    height:1150px;
+    margin:0 auto;
+}
+.food_jiu li{
+    width:340px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.food_jiu li img{
+    height:295px;
+    width:80px;
+    float: left;
+}
+.food_jiu li div{
+    width:230px;
+    float: left;
+    padding:0 15px;
+    padding-top:40px; 
+    position: relative;
+}
+.jiangexian{
+    width:5px;
+    height:260px;
+    position: absolute;
+    top:30px;
+    right:10px;
+    background-image: url(../img/zhongjizhuang/20170517170727.png);
+}
+.food_tibiao{
+    font-size: 16px;
+    font-weight: 600;
+}
+.foor_english{
+    font-size: 12px;
+    color:#999;
+    margin-bottom: 20px;
+}
+.zitibjt{
+    width:161px;
+    height:64px;
+    background-image: url(../img/zhongjizhuang/sloginBg.jpg);
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 10px;
+    padding-top:6px;
+    text-align: left;
+    font-size: 14px;
+    color:#5D4B25;
+    margin-bottom: 20px;
+}
+.food_qian{
+    color:#EA2600;
+}
+.food_qian span{
+    font-size: 26px;
+    font-weight: 800;
+}
+.food_jiu li div input{
+    width:139px;
+    height:40px;
+    color:#FFF;
+    background-color: #D97F6A;
+    border:0;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.zjz{
+    width:980px;
+    height:166px;
+    margin: 0 auto;
+    background-image: url(../img/zhongjizhuang/zjTitle2.jpg);
+}
+.food_jiu1{
+    margin-top: 40px;
+}

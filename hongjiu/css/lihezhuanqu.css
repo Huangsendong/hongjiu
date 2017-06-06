@@ -1,0 +1,136 @@
+
+.lihezhuanqu{
+    width:1903px;
+    margin:0 auto;
+}
+.lihezhuanqu img{
+    display:block;
+}
+
+.food_jiu{
+    width:1918px;
+    height:405px;
+    position: relative;
+}
+.food_jiu1{background-image: url(../img/lihezhuanqu/box_08.jpg);}
+.food_jiu2{background-image: url(../img/lihezhuanqu/box_09.jpg);}
+.food_jiu3{background-image: url(../img/lihezhuanqu/box_11.jpg);}
+.food_jiu4{background-image: url(../img/lihezhuanqu/box_13.jpg);}
+.food_jiu5{background-image: url(../img/lihezhuanqu/box_16.jpg);}
+.food_jiu6{background-image: url(../img/lihezhuanqu/box_17.jpg);}
+.food_jiu7{background-image: url(../img/lihezhuanqu/box_07.jpg);}
+.jiu_jiage{
+  position: absolute;
+  text-align: right;
+}
+.jiu_jiage1{
+  top:190px;
+  right:490px;
+}
+.jiu_jiage2{
+  top:200px;
+  left:490px;
+}
+.jiu_jiage3{
+  top:185px;
+  right:500px;
+}
+.jiu_jiage4{
+  top:200px;
+  right:490px;
+}
+.jiu_jiage5{
+  top:190px;
+  left:490px;
+}
+.jiu_jiage6{
+  top:175px;
+  left:490px;
+}
+.jiu_jiage7{
+  top:200px;
+  left:490px;
+}
+.jiu_jiage8{
+  top:200px;
+  left:490px;
+}
+.jiu_jiage del{
+  color:#705C54;
+  font-size:20px;
+  font-weight: 400;
+}
+.jiu_jiage p span{
+  font-size: 20px;
+}
+.jiu_jiage p{
+  color:#FFF;
+  font-size: 60px;
+  font-weight:1000;
+  
+}
+.jiu_jiage a{
+  display: block;
+  width:217px;
+  line-height:42px;
+  background-image: url(../img/lihezhuanqu/shop_03.png);
+  text-align: center;
+  font-size: 20px;
+  font-weight:600;
+}
+.img_1{
+   position: absolute;
+   top:30px;
+   right:530px; 
+}
+.img_2{
+   position: absolute;
+   top:36px;
+   left:528px; 
+}
+.img_3{
+   position: absolute;
+   top:40px;
+   left:570px; 
+}
+.img_4{
+   position: absolute;
+   top:30px;
+   right:570px; 
+}
+.jiu_food{
+    height:884px;
+}
+.jiu_food{
+    width:1000px;
+    margin:0 auto;
+}
+.jiu_food1 li{
+    float: left;
+    width:289px;
+    height:388px;
+    margin-left: 40px;
+    margin-top: 40px;
+    position: relative;
+}
+.li1{background-image: url(../img/lihezhuanqu/box_12.jpg);}
+.li2{background-image: url(../img/lihezhuanqu/box_14.jpg);}
+.li3{background-image: url(../img/lihezhuanqu/boxs_16.jpg);}
+.li4{background-image: url(../img/lihezhuanqu/boxs_21.jpg);}
+.li5{background-image: url(../img/lihezhuanqu/boxs_22.jpg);}
+.li6{background-image: url(../img/lihezhuanqu/boxs_24.jpg);}
+.li7{background-image: url(../img/lihezhuanqu/box_29.jpg);}
+.li8{background-image: url(../img/lihezhuanqu/boxs_29.jpg);}
+.li9{background-image: url(../img/lihezhuanqu/boxs_43.jpg);}
+.li10{background-image: url(../img/lihezhuanqu/boxss_43.jpg);}
+.li11{background-image: url(../img/lihezhuanqu/boxss_49.jpg);}
+.li12{background-image: url(../img/lihezhuanqu/boxss_54.jpg);}
+
+.jiu_food1 li a{
+  position: absolute;
+  bottom:20px;
+  right:35px;
+  color:#FFF;
+  font-size: 16px;
+  cursor:pointer;
+}
